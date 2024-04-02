@@ -2,7 +2,13 @@
 
 ![Stellar Identifier Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mesonstars.com%2Fspace%2Fastronomers-have-discovered-the-brightest-object-in-the-universe-quasar-j0529-4351-is-500-trillion-times-brighter-than-the-sun%2F&psig=AOvVaw1G9Y-TOLNODHOITOAzKdor&ust=1712153458043000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDMnuvao4UDFQAAAAAdAAAAABAJ)
 
-## About
+## Table of Contents
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Features](#features)
+- [Technologies](#technologies)
+
+## Introduction
 Stellar Identifier is a machine learning project aimed at classifying stellar objects based on their characteristics. It utilizes various machine learning algorithms to accurately identify different types of stars, galaxies, and other celestial bodies based on input data.
 
 ## Objective
@@ -17,7 +23,7 @@ The main objective of the project is to:
 - Providing visualization tools to analyze and interpret classification results.
 - User-friendly interface for users to input data and obtain classification predictions.
 
-## Technologies Used
+## Technologies
 - Python
 - Pandas, NumPy, Scikit-learn for data preprocessing and machine learning
 - Streamlite for web application development
